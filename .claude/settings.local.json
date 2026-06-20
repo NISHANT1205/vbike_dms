@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\DELL\\Downloads\\DMS\\DMS"
+    ]
+  }
+}
